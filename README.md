@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm [BOXI CHEN] 👋
 
-<!--
-**zxc99361x/zxc99361x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Beginner | 系統整合 | IOT 系統開發 | QA**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 工作經驗
+- **聯邦銀行** – 系統工程師  
+  負責系統整合與維護，解決跨平台溝通問題。
+- **聯寶電腦** – BIOS 助理工程師  
+  協助 BIOS 軟體開發與測試，確保產品穩定性。
+
+---
+
+### 技能專長
+- **系統整合**：了解如何將多個系統串接在一起，達到高效運作。
+- **IOT 系統開發**：具備物聯網相關硬體與軟體整合的經驗。
+- **QA 測試**：熟悉品質保證流程，確保軟硬體產品的品質。
+
+---
+
+### 正在學習
+- **AI 相關技術**：持續關注人工智慧領域，探索機器學習與深度學習技術。
+
+---
+
+### 興趣愛好
+- **玩遊戲**：喜歡透過遊戲放鬆心情，並從中汲取靈感。
+- **觀看知識類影片**：持續學習新知，拓展視野。
+
+---
+
+### 聯絡資訊
+- **Email**: [zxc99361x@gmail.com](mailto:zxc99361x@gmail.com)
+
+---
+
+歡迎交流與合作，讓我們一起成長！
