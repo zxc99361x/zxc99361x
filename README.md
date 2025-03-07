@@ -1,4 +1,4 @@
-# Hi, I'm [BOXI CHEN] 👋
+# Hi, I'm BOXI 👋
 
 **IT Beginner | 系統整合 | IOT 系統開發 | QA**
 
